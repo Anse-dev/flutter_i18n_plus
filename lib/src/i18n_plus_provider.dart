@@ -24,12 +24,9 @@ class I18nPlusProvider extends StatefulWidget {
 }
 
 class _I18nPlusProviderState extends State<I18nPlusProvider> {
-  late Locale _currentLocale;
-
   @override
   void initState() {
     super.initState();
-    _currentLocale = widget.defaultLocale;
     _initializeI18n();
   }
 
@@ -39,14 +36,11 @@ class _I18nPlusProviderState extends State<I18nPlusProvider> {
       defaultLocale: widget.defaultLocale,
       path: widget.translationsPath,
     );
-    setState(() {
-      _currentLocale = widget.defaultLocale;
-    });
+    setState(() {});
   }
 
   void setLocale(Locale newLocale) {
     setState(() {
-      _currentLocale = newLocale;
       I18nPlus().setLocale(newLocale);
     });
   }
