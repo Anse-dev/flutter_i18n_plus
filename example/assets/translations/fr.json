@@ -1,0 +1,14 @@
+{
+  "app": {
+    "title": "Démo I18nPlus"
+  },
+  "greeting": "Bonjour, {name} !",
+  "counter": {
+    "one": "Vous avez appuyé sur le bouton {count} fois",
+    "other": "Vous avez appuyé sur le bouton {count} fois"
+  },
+  "current_date": "Date actuelle : {date}",
+  "account_balance": "Solde du compte : {balance}",
+  "change_language": "Changer de langue",
+  "increment": "Incrémenter"
+}

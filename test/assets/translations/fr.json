@@ -1,0 +1,13 @@
+{
+  "greeting": "Bonjour",
+  "greeting_with_name": "Bonjour, {name} !",
+  "menu": {
+    "file": {
+      "open": "Ouvrir le fichier"
+    }
+  },
+  "items": {
+    "one": "Vous avez {count} {type}",
+    "other": "Vous avez {count} {type}s"
+  }
+}
