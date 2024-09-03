@@ -1,6 +1,6 @@
 name: flutter_i18n_plus
 description: An advanced internationalization package for Flutter applications with support for plurals, date formatting, and more.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/anse-dev/flutter_i18n_plus
 
 environment:

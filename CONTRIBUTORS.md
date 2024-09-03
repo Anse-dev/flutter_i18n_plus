@@ -8,10 +8,9 @@ Ce fichier liste les contributeurs au projet I18nPlus. Nous apprécions grandeme
 
 ## Contributeurs
 
-mohamed sangare
-
 - [Mohamed sangare](https://github.com/mooosmad)
-- [Gael ](https://github.com/gael-dev)
+- [Dogbo Ezechiel ](https://github.com/kitoko2)
+- [GAEL SASSAN ](https://github.com/ClichyMercury)
 
 ## Remerciements spéciaux
 
